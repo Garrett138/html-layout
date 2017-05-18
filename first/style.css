@@ -1,0 +1,27 @@
+
+
+body{
+  background-color: gray;
+  margin: 0px;
+
+}
+header {
+  background-color: black;
+  padding: 68px
+
+}
+
+.whitespace {
+  margin-left: 12%;
+  margin-right: 12%;
+  height: 630px;
+  background-color: white;
+}
+
+footer {
+  color: black;
+  height: 90px;
+  margin-left: 12%;
+  margin-right: 12%;
+  background-color: black;
+}

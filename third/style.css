@@ -1,0 +1,58 @@
+body {
+margin: 0;
+}
+
+.box{
+  background-color: #278ee0;
+  width: 75px;
+  height: 75px;
+  margin: 30px 5px 15px 5px;
+}
+
+.first {
+  width: 100vw;
+  height:130px;
+  background-color: #cacaca;
+  padding: 5px;
+
+}
+
+.second {
+  width: 100vw;
+  height: 300px;
+  background-color: white;
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: -90px;
+  font-size: 25px;
+
+}
+
+
+.third {
+  width: 100vw;
+  height: 130px;
+  background-color: #278ee0;
+
+}
+
+.fourth {
+  width: 100vw;
+  height: 130px;
+  background-color: #04ecc4;
+
+}
+
+.fifth {
+  width: 100vw;
+  height: 130px;
+  background-color: #bef973;
+}
+
+.sixth {
+  width: 100vw;
+  height: 130px;
+  background-color: #e2e21e;
+
+
+}

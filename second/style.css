@@ -1,0 +1,36 @@
+body {
+margin: 0px;
+
+}
+
+.first {
+  width:33.3%;
+  height:100vh;
+  background-color: blue;
+  float: left;
+}
+
+.second {
+  width: 33.3%;
+  height: 100vh;
+  background-color: #70deb0;
+  float: left;
+}
+
+.third {
+  width: 33.3%;
+  height: 100vh;
+  background-color: #baff86;
+  float: left;
+}
+
+footer{
+  background-color: red;
+  width: 33.3%;
+  height:8%;
+  position: absolute;
+  bottom: 0;
+  color: white;
+
+
+}
